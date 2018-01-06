@@ -1,0 +1,8 @@
+
+
+put the fontconfig.properties file to C:\Program Files\Java\jre7\lib\
+
+the greek characters with tonos will show correctly
+(like in word 'albondiga' for Es-Es DRAE dictionary)
+
+the Consolas font is needed, put it to the Fonts folder
